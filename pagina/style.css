@@ -74,6 +74,10 @@ main {
     background-color: #3F8068;
 
 }
+
+.bottombox > img {
+    color: white;
+}
 /*### Font
 
 - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
