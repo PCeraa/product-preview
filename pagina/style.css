@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F3EBE4;
+}
+
+main {
+    max-width: 500px;
+}
+
+.leftside, img {
+    max-width: 200px;
+}
