@@ -14,12 +14,14 @@ main {
     border-radius: 15px;
     margin: auto;
     background-color: white;
+    height: 338px;
     max-width: 450px;
 }
 
 .leftside, img {
     border-radius: 10px 0px 0px 10px;
     max-width: 225px;
+    
 }
 
 .rightside {
@@ -75,8 +77,12 @@ main {
 
 }
 
-.bottombox > img {
-    color: white;
+a {
+    text-decoration: none;
+}
+
+.svg {
+    padding-right: 7px;
 }
 /*### Font
 
