@@ -1,13 +1,13 @@
-# Landingpag Coca-Cola 
+# Product Preview
 
 ## 📌 About ##
  
 
  Português:  <br>
-    Projeto de landing page da Coca-Cola, destacando-se pelos efeitos de mudança de cor e animações nos botões de redes sociais. Desenvolvido como um exercício para aprimorar habilidades em HTML e CSS.
+    Este projeto consiste em um cartão de visualização para uma loja de perfumes. No centro da tela, há um cartão dividido apresentando a foto do produto de um lado e, do outro lado, o nome do produto, descrição, valor promocional e um botão que leva à página de processamento de pagamento. Desenvolvido como um exercício para aprimorar habilidades em desenvolvimento web.
 
 English: <br>
-    Coca-Cola landing page project, featuring captivating color-changing effects and animated social media buttons. Developed solely as a practice exercise to enhance skills in HTML and CSS.
+    This project consists of a visualization card for a perfume store. In the center of the screen, there is a split card featuring the product photo on one side and, on the other side, the product name, description, promotional value, and a button linking to the payment processing page. Developed as a practice exercise to enhance skills in web development.
 
 
 ## ⚒️ Tools 
@@ -20,7 +20,7 @@ English: <br>
 
 ## 💻 Preview <a href="https://pceraa.github.io/landingpag01/" target="_blank">🔗</a>
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## 📃 License 
 
